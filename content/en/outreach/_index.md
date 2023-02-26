@@ -1,7 +1,7 @@
 ---
 title: "Outreach"
 date: 2023-02-24
-featured_image: "http://localhost:1313/images/redblue5.jpg"
+featured_image: "http://rockemsockemrobotics.com/images/redblue5.jpg"
 ---
 
 ## What is Outreach?

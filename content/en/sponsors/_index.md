@@ -1,7 +1,7 @@
 ---
 title: "Sponsors"
 date: 2023-02-24
-featured_image: "http://localhost:1313/images/redblue6.jpg"
+featured_image: "http://rockemsockemrobotics.com/images/redblue6.jpg"
 ---
 # Bot
 
