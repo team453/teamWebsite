@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-02-24
-featured_image: "http://localhost:1313/images/redblue4.jpg"
+featured_image: "http://rockemsockemrobotics.com/images/redblue4.jpg"
 ---
 
 ### History

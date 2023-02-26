@@ -1,7 +1,7 @@
 ---
 date: 2023-02-24
 description: "A lesson on Static Site Generators and Hugo"
-featured_image: "http://localhost:1313/images/postBG9.jpg"
+featured_image: "http://rockemsockemrobotics.com/images/postBG9.jpg"
 tags: ["webdev"]
 title: "How did we make this site? pt 1"
 disable_share: false

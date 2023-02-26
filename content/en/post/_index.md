@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 date: 2023-02-24
-featured_image: "http://localhost:1313/images/postBG15.jpg"
+featured_image: "http://rockemsockemrobotics.com/images/postBG15.jpg"
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "FRC 453: Rockem Sockem Robotics"
 theme_version: '2.8.2'
-featured_image: "http://localhost:1313/images/redblue1.jpg"
+featured_image: "http://rockemsockemrobotics.com/images/redblue1.jpg"
 ---
 
 

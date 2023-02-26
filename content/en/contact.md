@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-featured_image: "http://localhost:1313/images/redblue3.jpg"
+featured_image: "http://rockemsockemrobotics.com/images/redblue3.jpg"
 
 menu: main
 
