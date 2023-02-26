@@ -27,6 +27,6 @@ FRC Zero is a collaborative knowledge hub that is maintained by FIRST Robotics C
 
 ## How can I get involved?
 
-If you are interested in getting involved with outreach, please contact us at [outreach email](mailto:). We are always looking for new people to help out with the website and other outreach events. We are also looking for people to help with the FRC Zero website. If you are interested in helping out with the FRC Zero website, please contact Mr. Siefen at [email](mailto:siefens.robot.emporium@gmail.com).
+If you are interested in getting involved with outreach, please contact us at [outreach email](mailto:team453.firstrobotics@gmail.com). We are always looking for new people to help out with the website and other outreach events. We are also looking for people to help with the FRC Zero website. If you are interested in helping out with the FRC Zero website, please contact Mr. Siefen at [email](mailto:siefens.robot.emporium@gmail.com).
 
-For local outreach events, students are always on the lookout for new ways to promote STEM and FIRST. If you have an idea for a local outreach event, please contact us at [outreach email](mailto:).
+For local outreach events, students are always on the lookout for new ways to promote STEM and FIRST. If you have an idea for a local outreach event, please contact us at [outreach email](mailto:team453.firstrobotics@gmail.com).

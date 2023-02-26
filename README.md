@@ -22,7 +22,7 @@ To view any of the following elements, you can [click here](https://github.com/t
 ### Header 3
 #### Header 4
 ##### Header 5
-###### Header 6
+###### Header 6 
 
 #### Text
 
