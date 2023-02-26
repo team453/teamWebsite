@@ -1,0 +1,48 @@
+title = "FRC 453 Website"
+baseURL = "https://rockemsockemrobotics.com"
+languageCode = "en-us"
+theme = ["ananke"]
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "FRC 453 Website"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = "/images/favicon.ico"
+  site_logo = "/images/banner1.png"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-near-black"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/frcteam453?lang=en"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/user/RockemSockemRobo"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/rockem.sockem.96"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/kingc95/FRC_453"

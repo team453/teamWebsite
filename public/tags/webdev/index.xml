@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webdev on FRC 453 Website</title>
+    <link>https://rockemsockemrobotics.com/tags/webdev/</link>
+    <description>Recent content in webdev on FRC 453 Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rockemsockemrobotics.com/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How did we make this site? pt 1</title>
+      <link>https://rockemsockemrobotics.com/post/ssglesson1/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rockemsockemrobotics.com/post/ssglesson1/</guid>
+      <description>What is a Static Site Generator? A static site generator is a tool that takes a set of files and generates a static website from them. The files are usually written in a markup language like Markdown or HTML. The generator then takes these files and generates a website from them. The website is then hosted on a web server. The website is easily updated by simply updating the files and re-running the generator.</description>
+    </item>
+    
+    <item>
+      <title>How did we make this site? pt 2</title>
+      <link>https://rockemsockemrobotics.com/post/ssglesson2/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rockemsockemrobotics.com/post/ssglesson2/</guid>
+      <description>What does a page look like? A page is made up of a few different parts. The first part is the front matter. The comes the content
+What is the front matter? The front matter is a set of key value pairs that define the page. The front matter is surrounded by --- on the top and bottom. The front matter is written in TOML. The front matter is used to define the page&amp;rsquo;s title, description, featured image, tags, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
