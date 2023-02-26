@@ -146,23 +146,6 @@ This will add the `script.js` file to the site.
 A theme is a set of files that define the look and feel of the site. A template is a file that defines the layout of a page. A theme can contain multiple templates. For example, the `ananke` theme contains the following templates:
 
 ```bash
-ananke
-├── archetypes
-├── assets
-├── config.toml
-├── content
-├── data
-├── layouts
-├── LICENSE.md
-├── README.md
-├── resources
-├── static
-└── themes
-```
-
-The `ananke` theme contains the following templates:
-
-```bash
 layouts
 ├── _default
 │   ├── baseof.html
